@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meekthephreak 
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Web Application Pentesting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Exploitation Scripts
 - 📫 How to reach me ...
 
 <!---
